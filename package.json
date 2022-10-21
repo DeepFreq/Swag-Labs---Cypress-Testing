@@ -4,7 +4,8 @@
   "description": "This is a project with Cypress for testing a web",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "test": "test",
+    "cypress:open": "cypress open"
   },
   "keywords": [
     "testing",
